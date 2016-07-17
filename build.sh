@@ -26,7 +26,7 @@ red='\033[0;31m'
 nocol='\033[0m'
 export ARCH=arm
 export SUBARCH=arm
-export CROSS_COMPILE=/home/anderson/uber/bin/arm-eabi-
+export CROSS_COMPILE=/home/anderson/uber-4.9/bin/arm-eabi-
 export KBUILD_BUILD_USER="anderson"
 export KBUILD_BUILD_HOST="anderson@localhost-technoander"
 echo -e "$nocol***********************************************"
